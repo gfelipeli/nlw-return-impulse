@@ -6,7 +6,7 @@
 
 ![ezgif-2-da32a74296](https://user-images.githubusercontent.com/103220984/169234525-986c82b7-3e04-40c4-8976-c01b93d18169.gif)
 
-A Widget component to reporting feedbacks, possible bugs, suggestions or ideas.
+A Widget component to reporting feedbacks, possible bugs and suggestions.
 
 <h2>✨ Technologies </h2>
 
