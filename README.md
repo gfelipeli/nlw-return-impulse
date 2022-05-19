@@ -24,7 +24,7 @@ A Widget component to reporting feedbacks, possible bugs, suggestions or ideas.
 
 - [ ] Attach a screenshot to the feedback;
 - [ ] Send an email with type of feedback, comment and screenshot;
-- [ ] Responsive using only the keyboard.
+- [ ] Accessible, also for keyboard-only use.
 
 <h2> 🔖 Layout </h2>
 
