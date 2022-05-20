@@ -12,6 +12,7 @@ A Widget component to reporting feedbacks, possible bugs and suggestions.
 
 - [ ] React
 - [ ] React Native
+- [ ] Javascript
 - [ ] Typescript
 - [ ] Expo
 - [ ] Tailwind CSS
