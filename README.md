@@ -1,4 +1,4 @@
-<h1> NLW Return - Impulse 🚀</h1>
+<h1> Feedback Widget</h1>
 
 ![Capa](https://user-images.githubusercontent.com/103220984/169223182-f02ee3e2-81bd-4cb3-8c2a-fb78367c84e3.png)
 
